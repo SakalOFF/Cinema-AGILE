@@ -12,6 +12,18 @@ Administrator can add sessions to the schedule, delete them and to check the att
 
 ---
 
+### Advatages over compatitors
+
+For comparison wi'll use a [web page](http://ukraina.ck.ua/) of my hometown cinema.
+
+These are the features that are absent in our compatitor's web page and we are going to implement them in our application.
+- Localization
+- User registration
+- Ability to purchase tickets on our web page
+- Ability to filter and sort the schedule
+
+---
+
 ### Team
 
 - Full-stack developer: [Sokolov Volodymyr](https://github.com/SakalOFF)
