@@ -90,6 +90,42 @@ Java SE 8, Spring Boot, Thymeleaf, Hibernate, HTTP, HTML, CSS, Javascript, SQL, 
 - Complete Workflow Control
 
 ---
+### Choosing technologies
+Of course Java isn't the only instrument for web applications development. For example, we could use .Net, so lets compare them to see, have we made the right decision.
+
+### .Net
+
+#### Advantages
+- Object-Oriented Programming (OOP)
+- Cross-Platform Development
+- Easy to Deploy and Maintain
+- Universal .NET Standard
+- Large community
+
+#### Disadvantages
+- The gap between release and stability
+- Licensing cost
+- Limited Object-Relational Support
+
+### Java
+
+#### Advantages
+- Object-Oriented Programming (OOP)
+- Platform-Independent
+- Strong comunity
+- JVM
+- Easy to Deploy and Maintain
+- Stability
+
+#### Disadvantages
+- Memory Management
+- Single-Paradigm Language
+- Costs for the commercial license
+
+### Conclusion
+So, as we can see, these two technologies have much in common and since Cross-Platform development were added to .Net, to my mind, there is no precise answer wich is better. But Java is still more stable and has bigger comunity due to its age. 
+
+---
 
 ### Use Case Diagram
 ![usecase](./assets/usecase.PNG)
